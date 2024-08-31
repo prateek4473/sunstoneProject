@@ -41,7 +41,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/raaz990/SunstoneProject.git
+   git clone https://github.com/prateek4473/sunstoneProject.git
    ```
 2. Navigate to the project directory:
 
